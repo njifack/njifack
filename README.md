@@ -1,7 +1,7 @@
-- 👋 Hi, I’m nkenfack
-- 👀 I’m interested in Bioinformatics data science
+- 👋 Hi, I’m Evanessa Nkenfack
+- 👀  Data science/Machine learning/Deep learniing 
 - 🌱 Ms in Bioinformatics
-- 💞️ I’m looking to collaborate on Machine learning/Deep learniing applications
+- 💞️ 
 - 📫 you can reach me by Email:njifackv@gmail.com
 
 <!---
