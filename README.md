@@ -16,7 +16,8 @@
 
 📄 Know about my work & experiences My Resume
 
-📫 How to reach me: [LinkedIn]((https://www.linkedin.com/in/evanessa-nkenfack/)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/evanessa-nkenfack/)
+[LinkedI](https://www.linkedin.com/in/evanessa-nkenfack/)
 
 ⚡ Fun fact: ♥️ Photography 📷  Soccer ⚽️ Traveling 🌏 
 
