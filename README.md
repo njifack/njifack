@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-![Header](https://github.com/your-username/assets/blob/main/header.svg)
+![Header](https://github.com/njifack/assets/blob/main/header.svg)
 
 # Welcome to My GitHub Profile!
 
