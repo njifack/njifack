@@ -14,14 +14,7 @@
 
 ⚡ Fun fact: ♥️ Photography 📷  Soccer ⚽️ Traveling 🌏 
 
-## Projects
-
-- [python_mysql](https://github.com/njifack/python_mysql.git)
-
 ## Skills
-
 - Python
 - SQL
 - R
-- Data Visualization
-- Database Manipulation
