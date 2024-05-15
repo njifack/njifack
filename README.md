@@ -8,20 +8,11 @@
 
 🔭 I’m currently working in building pipelines ,ETL, Data Analytics, Machine Learning & Statistics
 
-🛩️ Exploring Data Science, Bioinformatics
-
-📝 Sometimes I write articles on Medium
-
-💬 Ask me about topics = [ "Python","R", "SQL", "Statistics", "Tableau", "Data Analytics" ]
-
-📄 Know about my work & experiences My Resume
+🛩️ Exploring Data Science, Bioinformatics 
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/evanessa-nkenfack/)
-[LinkedI](https://www.linkedin.com/in/evanessa-nkenfack/)
 
 ⚡ Fun fact: ♥️ Photography 📷  Soccer ⚽️ Traveling 🌏 
-
-
 
 ## Projects
 
