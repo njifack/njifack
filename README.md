@@ -4,12 +4,11 @@
 
           # Welcome to My GitHub Profile!
 
-I specialize in building pipelines, ETL, and data analysis. Skilled in R, Python, and SQL, I'm passionate about turning data into insights for impactful decisions.![image](https://github.com/njifack/njifack/assets/96117639/b3c0d539-9f01-488c-b6bd-7cb28bd81a7b)
 
 
-👨‍💻 I am a passionate  with experience in data science and web development.
+👨‍💻 I'm passionate about turning data into insights for impactful decisions.
 
-🔭 I’m currently working on Data Pipelines ,ETL, Data Analytics, Python, Machine Learning & Statistics
+🔭 I’m currently working in building pipelines ,ETL, Data Analytics, Machine Learning & Statistics
 
 🛩️ Exploring Data Science, Bioinformatics
 
