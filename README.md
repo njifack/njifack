@@ -2,9 +2,7 @@
 
 ![Header](https://github.com/njifack/assets/blob/main/header.svg)
 
-          # Welcome to My GitHub Profile!
-
-
+# Welcome to My GitHub Profile!
 
 👨‍💻 I'm passionate about turning data into insights for impactful decisions.
 
@@ -14,9 +12,7 @@
 
 📝 Sometimes I write articles on Medium
 
-🏆 Finalist of "Startup India Innovation Challenge 2018"
-
-💬 Ask me about var topics = [ "Python","R", "SQL", "Statistics", "Tableau", "Data Analytics" ]
+💬 Ask me about topics = [ "Python","R", "SQL", "Statistics", "Tableau", "Data Analytics" ]
 
 📄 Know about my work & experiences My Resume
 
