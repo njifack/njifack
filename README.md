@@ -10,7 +10,7 @@
 
 I am a passionate developer with experience in web development, mobile apps, and more.
 
-## Projects
+## Projects 
 
 - [Project 1](https://github.com/your-username/project1)
 - [Project 2](https://github.com/your-username/project2)
