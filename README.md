@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**njifack/njifack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- README.md -->
+
+![Header](https://github.com/njifack/assets/blob/main/header.svg)
+
+# Welcome to My GitHub Profile!
+
+I am a passionate developer with experience in web development, mobile apps, and more.
+
+## Projects
+
+- [Project 1](https://github.com/your-username/project1)
+- [Project 2](https://github.com/your-username/project2)
+
+## Skills
+
+- JavaScript
+- Python
+- HTML & CSS
