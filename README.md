@@ -8,7 +8,7 @@ I am a passionate developer with experience in data science and web development.
 
 ## Projects
 
-- [Project 1][(https://github.com/njifack/python_mysql.git)]
+- [Project 1](https://github.com/njifack/python_mysql.git)
 
 ## Skills
 
