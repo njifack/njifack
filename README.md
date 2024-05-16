@@ -19,19 +19,6 @@ Hello! My name is Evanessa, and I'm passionate about turning data into insights 
 - **Operating Systems**      : MacOS, Windows, Linux
 
 
-## Projects
-
-Here are some of the projects I've been working on:
-
-### [Project 1](https://github.com/your-username/project-1)
-A brief description of what Project 1 is about, the technologies used, and its purpose.
-
-### [Project 2 ](https://github.com/your-username/project-2)
-A brief description of what Project 2 is about, the technologies used, and its purpose.
-
-### [Project 3 ](https://github.com/your-username/project-3)
-A brief description of what Project 3 is about, the technologies used, and its purpose.
-
 ## Contact Me
 
 Feel free to reach out if you want to collaborate on a project, have any questions, or just want to say hi! You can contact me via:
