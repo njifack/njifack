@@ -36,9 +36,9 @@ A brief description of what Project 3 is about, the technologies used, and its p
 
 Feel free to reach out if you want to collaborate on a project, have any questions, or just want to say hi! You can contact me via:
 
-- **Email**: [your.email@example.com](mailto:njifackv@gmail.com)
+- **Email**: [njifackv@gmail.com](mailto:njifackv@gmail.com)
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/evanessa-nkenfack/)
-- **Twitter**: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+
 
 ## Fun Fact
 
