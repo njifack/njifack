@@ -10,8 +10,8 @@ Hello! My name is Evanessa, and I'm passionate about turning data into insights 
 ## My Skills
 
 - **Programming Languages**  : Python, R, SQL,BASH
-- **Data Analysis**          : Pandas, NumPy, Matplotlib, Scikit-Learn,ggplot2
-- **Databases**              : MySQL, PostgreSQL
+- **Data Analysis**          : Pandas, NumPy, Matplotlib, Scikit-Learn,ggplot2,Tableau
+- **Databases**              : MySQL, PostgreSQL, Apache Spark
 - **Software & Tools**       : Git, Docker, Jupyter Notebook,Colab,Pycharm,VsCode
 - **Operating Systems**      : MacOS, Windows, Linux
 
