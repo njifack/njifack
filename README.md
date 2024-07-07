@@ -14,14 +14,15 @@ Hello! My name is Evanessa, and I'm passionate about turning data into insights 
 - **Databases**              : MySQL, PostgreSQL, Apache Spark
 - **Software & Tools**       : Git, Docker, Jupyter Notebook,Colab,Pycharm,VsCode
 - **Operating Systems**      : MacOS, Windows, Linux
-
+- **Bioinformatics Tools**   : Blast,DESeq2, edgeR,ClustalW, MUSCLE,MAFFT,NCBI, EMBL
+- **Bioinformatics**         : multiple genome alignments, Phylogenetic Trees,RNA-Seq NGS data Analysis
 ## Contact Me
 
 Feel free to reach out if you want to collaborate on a project, have any questions, or just want to say hi! You can contact me via:
 
 - **Email**: [njifackv@gmail.com](mailto:njifackv@gmail.com)
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/evanessa-nkenfack/)
-
+- **Data Science Portfolio** [Portfolio](https://www.datascienceportfol.io/Evanessa)
 ## Fun Fact
 
 ♥️ Photography 📷  Soccer ⚽️ Traveling 🌏 
