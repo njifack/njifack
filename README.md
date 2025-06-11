@@ -12,10 +12,10 @@ Hello! My name is Evanessa, and I'm passionate about turning data into insights 
 - **Programming Languages**  : Python, R, SQL,BASH
 - **Data Analysis**          : Pandas, NumPy, Matplotlib, Scikit-Learn,ggplot2,Tableau
 - **Databases**              : MySQL, PostgreSQL, Apache Spark
-- **Software & Tools**       : Git, Docker, Jupyter Notebook,Colab,Pycharm,VsCode
+- **Software & Tools**       : Git, Docker, Jupyter Notebook,Colab,Pycharm,VsCode,Nextflow
 - **Operating Systems**      : MacOS, Windows, Linux
-- **Bioinformatics Tools**   : Blast,DESeq2, edgeR,ClustalW, MUSCLE,MAFFT,NCBI, EMBL
-- **Bioinformatics**         : multiple genome alignments, Phylogenetic Trees,RNA-Seq NGS data Analysis
+- **Bioinformatics Tools**   : Blast,DESeq2, edgeR,ClustalW, MUSCLE,MAFFT,NCBI, EMBL,Bowtie,STAR
+- **Bioinformatics**         : Genomics, Phylogenetic Trees,RNA-Seq, NGS data Analysis
 ## Contact Me
 
 Feel free to reach out if you want to collaborate on a project, have any questions, or just want to say hi! You can contact me via:
